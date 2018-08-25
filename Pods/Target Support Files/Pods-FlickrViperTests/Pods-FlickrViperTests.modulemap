@@ -1,0 +1,6 @@
+framework module Pods_FlickrViperTests {
+  umbrella header "Pods-FlickrViperTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

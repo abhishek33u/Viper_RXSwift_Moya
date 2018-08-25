@@ -1,0 +1,15 @@
+//
+//  SearchViewInput.swift
+//  VIPERFlickar
+//
+//  Created by Abhishek Tripathi on 04/07/18.
+//  Copyright © 2018 Abhishek Tripathi. All rights reserved.
+//
+
+import Foundation
+
+
+protocol SearchViewInput: class {
+    func showLoader()
+    func hideLoader()
+}
