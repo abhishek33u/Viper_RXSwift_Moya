@@ -15,7 +15,7 @@ I have used RXSwift , RXCocoa , VIPER, Swinject , Flickr API so from here you ca
  
 # Requirements
 - iOS 8+
-- Swift 3.0+
+- Swift 4.0+
 - CocoaPods
  
 
